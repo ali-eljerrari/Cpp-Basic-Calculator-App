@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/x64/Debug
+/Basic Calculator App/Basic Ca.a6a66982/x64/Debug/Basic Ca.a6a66982.tlog
+/Basic Calculator App/x64/Debug/Basic Ca.a6a66982.tlog
+/Basic Calculator App/x64/Debug
+/Basic Calculator App/Basic Ca.a6a66982/x64/Debug
+/.vs/Basic Calculator App
